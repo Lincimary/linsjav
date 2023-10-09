@@ -16,6 +16,19 @@
 				"header": []
 			},
 			"response": []
+		},
+		{
+			"name": "test Copy",
+			"id": "6bfa007f-9a1a-4ba0-8f3e-d0746c407d49",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "echo.com"
+			},
+			"response": []
 		}
 	]
 }
